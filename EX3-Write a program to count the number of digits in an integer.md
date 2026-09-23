@@ -1,5 +1,5 @@
 # EX 3 Write a program to count the number of digits in an integer.
-
+## DATE:30/7/2026
 ## AIM:
  TO Program to to count the number of digits in an integer
 
